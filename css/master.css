@@ -6,6 +6,10 @@
   background-position: center;
 } */
 
+html {
+    -webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape */
+}
+
 body {
   position: absolute;
   top: 50%;
@@ -36,6 +40,6 @@ p {
   font-family: SF Mono, sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 1.3em;
   line-height: 14px;
 }
