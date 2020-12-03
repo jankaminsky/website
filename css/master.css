@@ -12,9 +12,14 @@ main {
   font-family: 'Roboto Mono', monospace;
 }
 
-img {
+img.jk-logo {
   max-width: 90vw;
   max-height: 40vh;
+}
+
+img.tiger {
+  max-width: 90vw;
+  max-height: 45vw;
 }
 
 .landing {
@@ -42,7 +47,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5rem; 
+  padding: 5rem;
 }
 
 .slider {
