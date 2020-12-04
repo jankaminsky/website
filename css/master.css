@@ -12,6 +12,15 @@ main {
   font-family: 'Roboto Mono', monospace;
 }
 
+footer {
+  font-family: 'Roboto Mono', monospace;
+  font-size: .75rem;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 img.jk-logo {
   max-width: 90vw;
   max-height: 40vh;
