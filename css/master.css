@@ -75,6 +75,19 @@ img.tiger {
   font-size: 2rem;
 }
 
+@media only screen and (min-width: 375px) {
+  .intro-text {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+  }
+
+  .intro {
+    padding: 2rem;
+  }
+
+}
+
 .hide {
   background: black;
   overflow: hidden;
