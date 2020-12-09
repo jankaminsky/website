@@ -5,7 +5,7 @@
 }
 
 html {
-    -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 main {
@@ -22,7 +22,7 @@ footer {
   transform: translate(-50%, -50%);
 }
 
-img.tiger{
+img.tiger {
   max-width: 90vw;
   max-height: 90vh;
 }
