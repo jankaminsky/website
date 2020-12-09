@@ -5,7 +5,7 @@
 }
 
 html {
-    -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 main {
@@ -80,7 +80,7 @@ img.tiger {
   font-size: 2rem;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 450px) {
   .intro-text {
     color: white;
     font-family: 'Roboto Mono', monospace;
@@ -90,7 +90,6 @@ img.tiger {
   .intro {
     padding: 2rem;
   }
-
 }
 
 .hide {
